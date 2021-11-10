@@ -15,9 +15,9 @@ Results:
   - There’s a significant gap between the number of retiring engineering personnel and the number of PH employees who are eligible to backfill retiree spots.
   - PH is in a very risky position relative to how prepared it is for the ’silver tsunami.'
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Summary:
 
-  - PH will need to fill 88,839 roles as a results of “silver tsunami.” 
+  - PH will need to fill 88,839 roles as a results of “silver tsunami,” while taking into account those who are eligible for mentorship. 
   - Luckily, the ratio of mentors to mentees suits PH well for developing the next rung of staff.
   - PH also might find it beneficial to gather information about retirement-eligible employees who may continue working on a part-time basis as well as       
     investigating a way to refer or recruit Engineering professionals into the company.
